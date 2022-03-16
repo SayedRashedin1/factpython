@@ -1,4 +1,4 @@
-num = 8
+num = 9
 factorial = 1
 if num < 0:
    print("Sorry, factorial does not exist for negative numbers")
